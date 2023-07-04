@@ -11,7 +11,7 @@
 body{
     display: flex;
     min-height: 100vh;
-    background-image: url(./images/bg.jfif);
+    background-image: url(https://wallpaperaccess.com/full/1326766.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -190,7 +190,7 @@ body{
 .description p{
     display:flex ;
     font-family: Agdasima;
-    color: #fff;
+    
     position: absolute;
 }
 
@@ -198,31 +198,18 @@ body{
     font-size: xxx-large;
     margin-left: 10%;
     margin-top: 16%;
-    text-align: right;
+    color: #fff;
 }
-
 .second{
-    font-size: 200px;
+    font-size: 100px;
     margin-left: 17%;
-    margin-top: 13%;
+    margin-top: 19%;
+    color: bisque;
+    text-shadow: 1px 1px 2px pink;
 }
-
 .third{
     font-size: xxx-large;
-    margin-left: 33%;
-    margin-top: 16%;
-    text-align: left;
-}
-
-.des2 p {
-    font-family: Josefin Sans;
-    color: beige;
-    position: absolute;
-    text-align: center;
-}
-
-.next {
-    font-size: 70px;
-    margin-left: 10%;
-    margin-top: 25%;
+    margin-left: 48%;
+    margin-top: 27%;
+    color: #fff;
 }
